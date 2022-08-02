@@ -51,5 +51,4 @@ public class CastingExample {
 		System.out.println(intValue3);
 		System.out.println(intValue4);
 	}
-
 }
