@@ -29,6 +29,12 @@ public class CharExample {
 			
 			int uniCode2 = c4;
 			System.out.println(uniCode2);
+			
+			//----------------------------------
+			int x = 8;
+			int y = 7;
+		    int z = 5;
+		    System.out.println(x+y+z);
 	}
 
 }
