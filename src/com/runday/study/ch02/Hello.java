@@ -17,7 +17,6 @@ public class Hello {
 		double km = 5.31;
 		double kcal = 345;
 		double heit = 5;
-		int cadence = 183;
 		
 		System.out.println("cus 변수에 들어가 있는 값은: " + cus);
 		System.out.println("dis 변수에 들어가 있는 값은: " + dis);
